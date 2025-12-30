@@ -1,0 +1,1 @@
+rootProject.name = "game-ime-demo"
